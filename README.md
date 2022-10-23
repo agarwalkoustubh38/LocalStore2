@@ -12,7 +12,7 @@ Kartik - [@kartikjindal](https://github.com/kartikjindal)
 
 ### Description
 
-A storefront built using **MedusaJS** + **NextJS**
+A storefront built using **MedusaJS** + **NextJS** + **MedusaAdmin** + **MedusaStore**
 ### Setup
 
 Prerequisites:
@@ -29,7 +29,7 @@ Run the development server:
 
 ### Preview
 
-![Home Page](https://i.ibb.co/3ptMcmw/2022-10-23-4.png)
+![Home Page](https://i.ibb.co/zVzhRd5/2022-10-23-7.png)
 ![Product Page](https://i.ibb.co/Y8G5qK0/2022-10-23-5.png)
 ![Cart Preview](https://i.ibb.co/TcrM0TF/2022-10-23-6.png)
 ![Checkout Info](https://i.ibb.co/nkQcS0z/Screenshot-20221023-153006.png)
