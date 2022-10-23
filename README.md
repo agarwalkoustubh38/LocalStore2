@@ -1,6 +1,6 @@
 # Local Store
 <!-- <a href="https://ibb.co/XxFQTZ4"><img src="https://i.ibb.co/4R4qxZf/fakebazaar.png" alt="fakebazaar" border="0"></a> -->
-![Local Store]("https://i.ibb.co/Tmqzt4D/F-1.png)
+![Local Store](https://i.ibb.co/Tmqzt4D/F-1.png)
 
 ## About
 
