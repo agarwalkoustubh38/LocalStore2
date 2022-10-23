@@ -1,6 +1,6 @@
 # Local Store
 <!-- <a href="https://ibb.co/XxFQTZ4"><img src="https://i.ibb.co/4R4qxZf/fakebazaar.png" alt="fakebazaar" border="0"></a> -->
-![Local Store](https://i.ibb.co/4R4qxZf/fakebazaar.png)
+![Local Store]("https://i.ibb.co/Tmqzt4D/F-1.png)
 
 ## About
 
@@ -29,7 +29,7 @@ Run the development server:
 
 ### Preview
 
-![Home Page](https://ibb.co/3ptMcmw)
-![Product Page](https://i.ibb.co/g9PqYw9/Screenshot-20221022-233254.png)
-![Cart Preview](https://i.ibb.co/NFhb2C9/Screenshot-20221022-233316.png)
+![Home Page](https://i.ibb.co/3ptMcmw/2022-10-23-4.png)
+![Product Page](https://i.ibb.co/Y8G5qK0/2022-10-23-5.png)
+![Cart Preview](https://i.ibb.co/TcrM0TF/2022-10-23-6.png)
 ![Checkout Info](https://i.ibb.co/nkQcS0z/Screenshot-20221023-153006.png)
