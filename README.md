@@ -19,13 +19,7 @@ Prerequisites:
 
 -   Need MedusaJS backend store up and running: [MedusaJS QuickStart](https://docs.medusajs.com/quickstart/quick-start)
 
-Install dependencies:
 
-`npm i`
-
-Run the development server:
-
-`npm run dev`
 
 ### Preview
 
