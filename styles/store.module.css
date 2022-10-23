@@ -1,0 +1,102 @@
+/* body {
+  background-color: #0094dd;
+} */
+.container {
+  padding: 0 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* background-color: #0094dd; */
+}
+
+.main {
+  padding: 5rem 0;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  font-weight: 400;
+}
+
+.circles {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.circles span {
+  background: #0094dd;
+  margin: 0.2rem;
+  border-radius: 50%;
+}
+
+.circles :first-child {
+  width: 6px;
+  height: 6px;
+}
+
+.circles :nth-child(2) {
+  width: 12px;
+  height: 12px;
+}
+
+.circles :nth-child(3) {
+  width: 18px;
+  height: 18px;
+}
+
+.circles :nth-child(4) {
+  width: 24px;
+  height: 24px;
+}
+
+.circles :nth-child(5) {
+  width: 30px;
+  height: 30px;
+}
+
+.products {
+  /* display: flex; */
+}
+
+.grid {
+  /* display: flex; */
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.card {
+  width: 550px;
+  height: 350px;
+  margin: 2rem;
+  padding: 1.5rem;
+  color: inherit;
+  background-color: #F8C4B4;
+  text-align: left;
+  text-decoration: none;
+  border: 2px solid #eaeaea;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: all 0.2s ease-in;
+}
+
+.card h2 {
+  font-weight: 400;
+}
+
+.card:hover {
+  border: 2px solid #0094dd;
+  transform: perspective(400px) rotateX(2deg);
+}
+
+.imgHolder {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}

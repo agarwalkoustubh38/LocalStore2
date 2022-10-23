@@ -1,0 +1,5 @@
+.noscroll {
+  overflow: hidden;
+  /* background-color: blue; */
+  height: 100vh;
+}
